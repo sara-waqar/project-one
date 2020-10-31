@@ -19,7 +19,7 @@ html {
   font-weight: 500; }
 
 .home-sec {
-  background-image: url("../img/home-bg.png");
+  background-image: url(../img/home-bg.png);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -27,7 +27,7 @@ html {
   z-index: -1; }
 
 .sec-2 {
-  background-image: url("../img/about-back.png");
+  background-image: url(../img/about-back.png);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
